@@ -1,0 +1,5 @@
+PaymentPlanKey,PlanName,DownPaymentPct,PaymentTermMonths,InstalmentMonths,FinanceAvailable
+1,10% Down – 36 months,0.1,36,24,True
+2,14% Down – 48 months,0.14,48,36,True
+3,20% Down – Handover + 12 months,0.2,60,24,False
+4,Cash Purchase,1.0,1,0,False
